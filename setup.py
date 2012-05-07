@@ -4,7 +4,7 @@
 NAME = "ZenPacks.Nova.Cisco.Catalyst"
 VERSION = "1.0"
 AUTHOR = "Ryan Matte"
-LICENSE = "LGPL"
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.Nova', 'ZenPacks.Nova.Cisco']
 PACKAGES = ['ZenPacks', 'ZenPacks.Nova', 'ZenPacks.Nova.Cisco', 'ZenPacks.Nova.Cisco.Catalyst']
 INSTALL_REQUIRES = []
